@@ -1,2 +1,2 @@
 # Gitter-W10M
-A fully featured Gitter client for Windows 10 Mobile
+The source code of the website for Gitter W10M, a fully featured Gitter client for Windows 10 Mobile.
